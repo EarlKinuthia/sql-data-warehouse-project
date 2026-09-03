@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Acknowledgments
 
-This project was built while following Data with Baraa's tutorial series on [topic], 
+This project was built while following Data with Baraa's tutorial series on Data Warehousing, 
 available on [YouTube](https://youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&si=CvSvJXjxex2wX7J1). The original source repository referenced 
 in the tutorial can be found on [GitHub](https://github.com/DataWithBaraa/sql-data-warehouse-project).
 
