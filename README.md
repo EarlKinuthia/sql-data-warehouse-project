@@ -52,3 +52,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## Acknowledgments
+
+This project was built while following Data with Baraa's tutorial series on [topic], 
+available on [YouTube](https://youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&si=CvSvJXjxex2wX7J1). The original source repository referenced 
+in the tutorial can be found on [GitHub](https://github.com/DataWithBaraa/sql-data-warehouse-project).
+
+This is my own implementation completed as part of following along with the course, 
+with modifications/additions of my own.
